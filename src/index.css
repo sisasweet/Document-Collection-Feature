@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-bg: #0e0d0b;
+  --color-surface: #161410;
+  --color-card: #1c1a16;
+  --color-border: #2e2b25;
+  --color-gold: #c9a84c;
+  --color-gold-light: #e2c47a;
+  --color-cream: #f0ead8;
+  --color-muted: #6b6458;
+  --color-danger: #c0392b;
+
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-color: #0e0d0b;
+  color: #f0ead8;
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+/* Watermark overlay on locked cards */
+.watermark-text {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.watermark-text::before {
+  content: 'BetBenAmraoui © CONFIDENTIEL';
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  color: rgba(201, 168, 76, 0.25);
+  transform: rotate(-30deg);
+  white-space: nowrap;
+  text-shadow: 0 0 20px rgba(201, 168, 76, 0.15);
+}
+
+.doc-card:hover .doc-overlay {
+  opacity: 1;
+}
+
+.doc-card:hover .doc-image {
+  transform: scale(1.03);
+}

@@ -1,0 +1,315 @@
+[
+  {
+    "id": 1,
+    "title": "Villa Contemporaine R+2 — Jeu de Plans Complet",
+    "category": "Habitat",
+    "subcategory": "Individuel",
+    "folder": "Dessin 2D",
+    "description": "Jeu complet de plans architecturaux d'une villa contemporaine sur trois niveaux : sous-sol, RDC et étage. Inclut plans de masse, plans de distribution, plans de toiture et cotations détaillées. Idéal pour comprendre la composition spatiale d'une habitation individuelle.",
+    "price": 29,
+    "pages": 14,
+    "format": "DWG + PDF",
+    "image": "https://images.unsplash.com/photo-1542621334-a254cf47733d?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "résidentiel",
+      "R+2",
+      "villa",
+      "plans"
+    ],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Médiathèque Urbaine — Coupes et Plans Complets",
+    "category": "Équipements",
+    "subcategory": "Divers",
+    "folder": "Dessin 2D",
+    "description": "Dossier complet d'une médiathèque de quartier : coupes longitudinales et transversales, plans de distribution sur 3 niveaux, façades et détails structuraux. Très utile pour comprendre la logique verticale et programmatique d'un équipement public.",
+    "price": 22,
+    "pages": 8,
+    "format": "PDF",
+    "image": "https://images.unsplash.com/photo-1721244654392-9c912a6eb236?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "équipement public",
+      "médiathèque",
+      "coupes"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Parc Urbain — Plan d'Aménagement Paysager",
+    "category": "Aménagement",
+    "folder": "Dessin 2D",
+    "description": "Plan d'aménagement d'un parc urbain de 2,5 ha : zoning fonctionnel, cheminements piétons, traitement végétal, mobilier urbain et éclairage. Document de référence pour comprendre la composition d'un espace public extérieur.",
+    "price": 19,
+    "pages": 6,
+    "format": "PDF",
+    "image": "https://images.unsplash.com/photo-1721244654394-36a7bc2da288?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "paysage",
+      "parc",
+      "espace public",
+      "urbain"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Maison Bioclimatique — Étude Thermique et Orientation",
+    "category": "Habitat",
+    "subcategory": "Individuel",
+    "folder": "Rapport écrit",
+    "description": "Étude complète de la conception bioclimatique d'une maison à énergie positive. Analyse des apports solaires, stratégies de ventilation naturelle, choix des matériaux et calcul des déperditions. Document pédagogique essentiel pour aborder la conception durable.",
+    "price": 39,
+    "pages": 22,
+    "format": "PDF",
+    "image": "https://images.unsplash.com/photo-1712696779652-dfca8766c5f8?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "bioclimatique",
+      "thermique",
+      "durable",
+      "habitat"
+    ],
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Zone Commerciale — Schéma Directeur d'Aménagement",
+    "category": "Aménagement",
+    "folder": "Rapport écrit",
+    "description": "Schéma directeur d'une zone commerciale périurbaine : plan de masse, voirie, stationnement, traitement des espaces extérieurs et implantation des bâtiments. Modèle de document de planification urbaine à grande échelle.",
+    "price": 25,
+    "pages": 18,
+    "format": "DWG + PDF",
+    "image": "https://images.unsplash.com/photo-1762146828422-50a8bd416d3c?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "commercial",
+      "schéma directeur",
+      "voirie",
+      "masse"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Centre Culturel — Avant-Projet Sommaire Complet",
+    "category": "Équipements",
+    "subcategory": "Santé / Loisir",
+    "folder": "Modélisation 3D",
+    "description": "Dossier APS complet d'un centre culturel de 3 000 m² : programme fonctionnel, plans esquisse, coupes de principe, volumétrie et estimatif prévisionnel. Modèle de document de présentation client à l'étape APS.",
+    "price": 49,
+    "pages": 32,
+    "format": "PDF",
+    "image": "https://images.unsplash.com/photo-1721244653721-bc681b2dfd27?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "APS",
+      "culturel",
+      "équipement",
+      "programme"
+    ],
+    "featured": true
+  },
+  {
+    "id": 7,
+    "title": "Logement Collectif R+4 — Plans et Façades",
+    "category": "Habitat",
+    "subcategory": "Collectif",
+    "folder": "Dessin 2D",
+    "description": "Immeuble de logements collectifs de 5 niveaux : plans de distribution par étage avec typologies T2 à T4, façades nord et sud avec traitement de l'enveloppe, balcons et matériaux de parement. Référence pour la conception en milieu urbain.",
+    "price": 15,
+    "pages": 4,
+    "format": "PDF",
+    "image": "https://images.unsplash.com/photo-1542621334-a254cf47733d?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "logements collectifs",
+      "R+4",
+      "façades",
+      "urbain"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "École Primaire — Dossier Architectural Complet",
+    "category": "Équipements",
+    "subcategory": "Scolaire",
+    "folder": "Dessin 2D",
+    "description": "Dossier architectural d'une école primaire de 12 classes : plan masse, plans de distribution, coupes, façades et détails. Traitement des circulations, des cours de récréation et des accès PMR. Document complet pour comprendre un équipement scolaire.",
+    "price": 35,
+    "pages": 16,
+    "format": "DWG + PDF",
+    "image": "https://images.unsplash.com/photo-1721244654392-9c912a6eb236?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "école",
+      "scolaire",
+      "équipement",
+      "PMR"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Quartier Résidentiel — Plan de Lotissement",
+    "category": "Aménagement",
+    "folder": "Dessin 2D",
+    "description": "Plan de lotissement d'un quartier résidentiel de 4 ha : découpage parcellaire, voirie, réseaux, espaces verts et servitudes. Inclut le règlement de lotissement et les prescriptions architecturales. Référence pour les projets d'urbanisme opérationnel.",
+    "price": 28,
+    "pages": 10,
+    "format": "DWG + PDF",
+    "image": "https://images.unsplash.com/photo-1762146828422-50a8bd416d3c?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "lotissement",
+      "résidentiel",
+      "urbanisme",
+      "parcellaire"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Villa Individuelle — Modèle 3D SketchUp",
+    "category": "Habitat",
+    "subcategory": "Individuel",
+    "folder": "Modélisation 3D",
+    "description": "Modèle 3D complet d'une villa individuelle, avec volumes, ouvertures, toiture et calques organisés. Idéal pour apprendre la modélisation architecturale et l'export vers un moteur de rendu.",
+    "price": 24,
+    "pages": 1,
+    "format": "SKP + OBJ",
+    "image": "https://images.unsplash.com/photo-1542621334-a254cf47733d?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "villa",
+      "3D",
+      "SketchUp"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Résidence Collectif R+4 — Images 3D de Présentation",
+    "category": "Habitat",
+    "subcategory": "Collectif",
+    "folder": "Images 3D",
+    "description": "Série de rendus 3D haute définition d'une résidence collective : perspectives extérieures, vues de façades et ambiances de jour et de nuit. Référence de présentation graphique.",
+    "price": 18,
+    "pages": 8,
+    "format": "JPG 4K",
+    "image": "https://images.unsplash.com/photo-1542621334-a254cf47733d?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "collectif",
+      "rendus",
+      "perspectives"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Salle Omnisports — Modélisation 3D et Structure",
+    "category": "Équipements",
+    "subcategory": "Sport",
+    "folder": "Modélisation 3D",
+    "description": "Modèle 3D d'une salle omnisports couverte : charpente, gradins, enveloppe et circulations. Utile pour comprendre la conception d'un grand volume.",
+    "price": 32,
+    "pages": 1,
+    "format": "RVT + SKP",
+    "image": "https://images.unsplash.com/photo-1721244654392-9c912a6eb236?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "sport",
+      "salle",
+      "charpente"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Complexe Sportif — Plans et Coupes 2D",
+    "category": "Équipements",
+    "subcategory": "Sport",
+    "folder": "Dessin 2D",
+    "description": "Dossier de dessins 2D d'un complexe sportif : plan masse, plans de niveaux, coupes et façades, avec vestiaires et accès PMR.",
+    "price": 27,
+    "pages": 12,
+    "format": "DWG + PDF",
+    "image": "https://images.unsplash.com/photo-1721244654392-9c912a6eb236?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "sport",
+      "complexe",
+      "plans"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Centre de Santé de Proximité — Rapport Écrit",
+    "category": "Équipements",
+    "subcategory": "Santé / Loisir",
+    "folder": "Rapport écrit",
+    "description": "Rapport de conception d'un centre de santé : programme, organigramme fonctionnel, surfaces, normes d'hygiène et choix constructifs.",
+    "price": 21,
+    "pages": 18,
+    "format": "PDF",
+    "image": "https://images.unsplash.com/photo-1721244653721-bc681b2dfd27?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "santé",
+      "programme",
+      "rapport"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "École Primaire — Images 3D Intérieures et Extérieures",
+    "category": "Équipements",
+    "subcategory": "Scolaire",
+    "folder": "Images 3D",
+    "description": "Rendus 3D d'une école primaire : cour, salles de classe, préau et façades. Exemple de présentation visuelle pour un jury ou un maître d'ouvrage.",
+    "price": 16,
+    "pages": 10,
+    "format": "JPG 4K",
+    "image": "https://images.unsplash.com/photo-1721244654392-9c912a6eb236?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "école",
+      "rendus",
+      "scolaire"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Aménagement Urbain — Images 3D du Parc",
+    "category": "Aménagement",
+    "folder": "Images 3D",
+    "description": "Vues 3D d'un aménagement paysager : cheminements, plantations, mobilier urbain et éclairage, en ambiance diurne et nocturne.",
+    "price": 14,
+    "pages": 8,
+    "format": "JPG 4K",
+    "image": "https://images.unsplash.com/photo-1721244654394-36a7bc2da288?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "paysage",
+      "rendus",
+      "urbain"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Zone Commerciale — Modélisation 3D du Plan de Masse",
+    "category": "Aménagement",
+    "folder": "Modélisation 3D",
+    "description": "Maquette 3D du plan de masse d'une zone commerciale : volumétrie des bâtiments, voirie, parkings et espaces verts.",
+    "price": 26,
+    "pages": 1,
+    "format": "SKP + 3DS",
+    "image": "https://images.unsplash.com/photo-1762146828422-50a8bd416d3c?w=600&h=420&fit=crop&auto=format",
+    "tags": [
+      "masse",
+      "3D",
+      "commercial"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "COLLÈGE TYPE 6/300R — Rapport écrit",
+    "category": "Équipements",
+    "subcategory": "Scolaire",
+    "folder": "Rapport écrit",
+    "description": "ÉTUDE ET SUIVI POUR LA RÉALISATION D'UN COLLÈGE TYPE 6/300R, À CITÉ 03 CAVES COMMUNE D'EL HARRACH Rapport écrit.",
+    "price": 16,
+    "pages": 17,
+    "format": "Docx",
+    "image": "https://vhjmuqcpadejgrymzumi.supabase.co/storage/v1/object/public/previews/rapport%20ecrit.png",
+    "tags": [
+      "rapport",
+      "docx",
+      "collège",
+      "scolaire"
+    ]
+  }
+]
